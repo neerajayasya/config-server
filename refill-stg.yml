@@ -17,3 +17,4 @@ com.arxwp.service.refill:
   
   jahiaHolidaysUrl: https://stg1.alliancerxwp.com/sites/arxweb/contents/easy-refill/holiday-calendar.json 
  
+com.arxwp.service.refill.jahiaHolidaysUrl: https://stg1.alliancerxwp.com/sites/arxweb/contents/easy-refill/holiday-calendar.json
