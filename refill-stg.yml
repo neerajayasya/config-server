@@ -14,4 +14,4 @@ com.arxwp.service.refill:
   tcpDiscoveryMulticastIpFinder:
     addresses: [ "10.217.248.75", "10.217.248.86" ]
     multicastGroup: "224.0.0.75"
-com.arxwp.service.refill.jahiaHolidaysUrl: https://stg.alliancerxwp.com/sites/arxweb/contents/easy-refill/holiday-calendar.json
+com.arxwp.service.refill.jahiaHolidaysUrl: https://stg2.alliancerxwp.com/sites/arxweb/contents/easy-refill/holiday-calendar.json
