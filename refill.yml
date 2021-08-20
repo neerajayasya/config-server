@@ -15,4 +15,4 @@ com.arxwp.service.refill:
     addresses: [ "10.217.248.75", "10.217.248.86" ]
     multicastGroup: "224.0.0.75"
   
- com.arxwp.service.refill.jahiaHolidaysUrl: https://stg1.alliancerxwp.com/sites/arxweb/contents/easy-refill/holiday-calendar.json
+com.arxwp.service.refill.jahiaHolidaysUrl: https://stg1.alliancerxwp.com/sites/arxweb/contents/easy-refill/holiday-calendar.json
